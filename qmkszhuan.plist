@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/rebountr/plist_test/master/WuShuangOfferWallLite.ipa</string>
+					<string>http://wxgzh.netsgamestudio.com/qmkszhuan.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -39,9 +39,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>赚零花钱</string>
+				<string>全民考试</string>
 				<key>title</key>
-				<string>赚零花钱</string>
+				<string>全民考试</string>
 			</dict>
 		</dict>
 	</array>
